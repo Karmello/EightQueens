@@ -1,6 +1,6 @@
 <img
   align="left"
-  src="https://github.com/Karmello/EightQueens/blob/master/screenshots/3.png"
+  src="https://github.com/Karmello/EightQueens/blob/master/screenshots/3.png?raw=true"
   alt="EightQueens"
   width="525px"
 />
